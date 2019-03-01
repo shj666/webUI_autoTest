@@ -1,0 +1,27 @@
+2019-02-27 16:42:11,552 - BasePage - $(levelname)s - 输入内容admin
+2019-02-27 16:42:11,844 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-27 16:42:12,085 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:42:14,578 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:42:15,076 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:42:15,906 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:42:16,323 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:42:17,763 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-27 16:42:39,070 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:42:39,624 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:42:40,102 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:42:40,771 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:42:41,677 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:42:42,330 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:42:53,462 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x00000261D6CF3B38>页面元素未找到('id', 'ls_username')元素
+2019-02-27 16:42:53,463 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-27 16:43:04,533 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x00000261D6CF3B38>页面元素未找到('id', 'ls_password')元素
+2019-02-27 16:43:04,534 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-27 16:43:15,673 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x00000261D6CF3B38>页面元素未找到('css selector', '.fastlg_l button')元素
+2019-02-27 16:43:15,673 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-27 16:43:16,874 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:43:17,571 - BasePage - $(levelname)s - 输入内容我的第二个帖子！！！！！
+2019-02-27 16:43:18,370 - BasePage - $(levelname)s - 输入内容符合符合华为覅黑发黑丝的开发商地多喝点客服端
+2019-02-27 16:43:20,509 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:43:21,011 - BasePage - $(levelname)s - 输入内容大老牛逼，秒天秒地秒空气
+2019-02-27 16:43:21,851 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:43:22,342 - BasePage - $(levelname)s - 点击成功

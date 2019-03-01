@@ -1,0 +1,25 @@
+2019-02-27 16:07:11,006 - BasePage - $(levelname)s - 输入内容admin
+2019-02-27 16:07:11,302 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-27 16:07:11,539 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:07:13,572 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:07:14,060 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:07:14,863 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:07:15,263 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:07:16,676 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-27 16:08:17,554 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:08:18,248 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:08:18,702 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:08:19,490 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:08:20,372 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:08:31,587 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001FB7C9A4BE0>页面元素未找到('link text', '新版块名称')元素
+2019-02-27 16:08:31,629 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-27 16:08:32,139 - BasePage - $(levelname)s - 输入内容我的第二个帖子！！！！！
+2019-02-27 16:08:43,241 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001FB7C9A4BE0>页面元素未找到('name', 'message')元素
+2019-02-27 16:08:43,241 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-27 16:08:44,033 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:08:55,112 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001FB7C9A4BE0>页面元素未找到('id', 'fastpostmessage')元素
+2019-02-27 16:08:55,112 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-27 16:09:06,186 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001FB7C9A4BE0>页面元素未找到('css selector', '.pnpost button')元素
+2019-02-27 16:09:06,186 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-27 16:09:17,341 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001FB7C9A4BE0>页面元素未找到('partial link text', '退出')元素
+2019-02-27 16:09:17,342 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'

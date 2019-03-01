@@ -1,0 +1,7 @@
+2019-02-27 20:26:47,149 - BasePage - $(levelname)s - 输入内容shj1
+2019-02-27 20:26:47,427 - BasePage - $(levelname)s - 输入内容123456
+2019-02-27 20:26:47,665 - BasePage - $(levelname)s - 点击成功
+2019-02-27 20:26:49,464 - BasePage - $(levelname)s - 输入内容haotest
+2019-02-27 20:26:50,760 - BasePage - $(levelname)s - 点击成功
+2019-02-27 20:27:01,862 - BasePage - $(levelname)s - <pageobjects.discuz_user_homepage.HomePage object at 0x000001E0317C29B0>页面元素未找到('xpath', '//li[@id="51"]/h3/a')元素
+2019-02-27 20:27:01,862 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'

@@ -1,0 +1,26 @@
+2019-02-27 16:11:04,252 - BasePage - $(levelname)s - 输入内容admin
+2019-02-27 16:11:04,550 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-27 16:11:04,802 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:07,309 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:07,779 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:08,591 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:08,992 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:21,177 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x00000161B5A33B00>页面元素未找到('xpath', '//input[@type="password"]')元素
+2019-02-27 16:11:21,178 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-27 16:11:32,291 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x00000161B5A33B00>页面元素未找到('name', 'submit')元素
+2019-02-27 16:11:32,291 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-27 16:11:32,894 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:33,447 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:34,158 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:34,994 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:37,650 - BasePage - $(levelname)s - 输入内容shj1
+2019-02-27 16:11:37,938 - BasePage - $(levelname)s - 输入内容123456
+2019-02-27 16:11:38,163 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:49,481 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x00000161B5A33B00>页面元素未找到('link text', '新版块名称')元素
+2019-02-27 16:11:49,481 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-27 16:11:50,078 - BasePage - $(levelname)s - 输入内容我的第二个帖子！！！！！
+2019-02-27 16:11:50,769 - BasePage - $(levelname)s - 输入内容符合符合华为覅黑发黑丝的开发商地多喝点客服端
+2019-02-27 16:11:56,831 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:57,324 - BasePage - $(levelname)s - 输入内容大老牛逼，秒天秒地秒空气
+2019-02-27 16:11:58,081 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:11:58,648 - BasePage - $(levelname)s - 点击成功

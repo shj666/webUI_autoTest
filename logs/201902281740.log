@@ -1,0 +1,69 @@
+2019-02-28 17:41:39,343 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 17:41:39,634 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:41:39,863 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:41:42,592 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:41:43,040 - BasePage - $(levelname)s - 输入内容我的第一个帖子！！！！
+2019-02-28 17:41:43,539 - BasePage - $(levelname)s - 输入内容好海奥，感觉人生已经到达了巅峰！！！！
+2019-02-28 17:41:45,361 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:41:45,958 - BasePage - $(levelname)s - 输入内容老哥，稳啊！墙都不服就服你！！！！！
+2019-02-28 17:41:46,708 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:41:47,519 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:41:56,110 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 17:41:56,377 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:41:56,595 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:41:57,591 - BasePage - $(levelname)s - 点击失败Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 17:42:08,683 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001E2CD1737F0>页面元素未找到('css selector', '.o input')元素
+2019-02-28 17:42:08,683 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 17:42:19,957 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001E2CD1737F0>页面元素未找到('link text', '删除')元素
+2019-02-28 17:42:19,957 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 17:42:31,028 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001E2CD1737F0>页面元素未找到('name', 'modsubmit')元素
+2019-02-28 17:42:31,028 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 17:42:31,363 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:42:32,754 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:42:54,750 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:42:55,298 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:42:55,720 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:42:56,326 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:42:57,222 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:42:57,833 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:00,415 - BasePage - $(levelname)s - 输入内容shj1
+2019-02-28 17:43:00,656 - BasePage - $(levelname)s - 输入内容123456
+2019-02-28 17:43:00,877 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:03,044 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:03,630 - BasePage - $(levelname)s - 输入内容我的第二个帖.......
+2019-02-28 17:43:04,127 - BasePage - $(levelname)s - 输入内容符合符合华为覅黑发黑丝的开发商地多喝点客服端
+2019-02-28 17:43:05,831 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:21,207 - BasePage - $(levelname)s - 输入内容大老牛逼，秒天秒地秒空气
+2019-02-28 17:43:21,931 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:22,667 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:31,286 - BasePage - $(levelname)s - 输入内容shj1
+2019-02-28 17:43:31,542 - BasePage - $(levelname)s - 输入内容123456
+2019-02-28 17:43:31,767 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:33,433 - BasePage - $(levelname)s - 输入内容haotest
+2019-02-28 17:43:34,727 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:36,077 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:41,728 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:44,352 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:52,346 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 17:43:52,616 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:43:52,844 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:55,204 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:56,408 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:57,711 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:43:58,542 - BasePage - $(levelname)s - 输入内容11111111111111111
+2019-02-28 17:43:59,155 - BasePage - $(levelname)s - 输入内容5555555555555555
+2019-02-28 17:43:59,673 - BasePage - $(levelname)s - 输入内容6666666666666666
+2019-02-28 17:44:00,108 - BasePage - $(levelname)s - 输入内容7777777777777
+2019-02-28 17:44:00,449 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:44:02,559 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:44:04,039 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:44:04,244 - BasePage - $(levelname)s - 获取成功
+2019-02-28 17:44:04,409 - BasePage - $(levelname)s - 获取成功
+2019-02-28 17:44:04,560 - BasePage - $(levelname)s - 获取成功
+2019-02-28 17:44:04,708 - BasePage - $(levelname)s - 获取成功
+2019-02-28 17:44:04,846 - BasePage - $(levelname)s - 获取成功
+2019-02-28 17:44:04,990 - BasePage - $(levelname)s - 获取成功
+2019-02-28 17:44:05,134 - BasePage - $(levelname)s - 获取成功

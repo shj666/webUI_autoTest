@@ -1,0 +1,12 @@
+2019-02-28 17:46:17,986 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 17:46:18,290 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:46:18,523 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:46:21,539 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:46:21,981 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:46:22,728 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:46:23,835 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:46:24,294 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:46:25,641 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:46:28,435 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:46:28,443 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001E8522B3AC8>页面元素未找到('id', 'header_forum')元素
+2019-02-28 17:46:28,447 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'

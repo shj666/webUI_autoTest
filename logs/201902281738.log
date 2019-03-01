@@ -1,0 +1,25 @@
+2019-02-28 17:39:39,700 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 17:39:39,982 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:39:40,206 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:39:42,003 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:39:42,663 - BasePage - $(levelname)s - 输入内容我的第一个帖子！！！！
+2019-02-28 17:39:43,133 - BasePage - $(levelname)s - 输入内容好海奥，感觉人生已经到达了巅峰！！！！
+2019-02-28 17:39:45,132 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:39:45,699 - BasePage - $(levelname)s - 输入内容老哥，稳啊！墙都不服就服你！！！！！
+2019-02-28 17:39:46,381 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:39:47,161 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:39:56,216 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 17:39:56,492 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:39:56,724 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:39:57,729 - BasePage - $(levelname)s - 点击失败Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 17:40:08,787 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001EEC9614748>页面元素未找到('css selector', '.o input')元素
+2019-02-28 17:40:08,787 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 17:40:20,017 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001EEC9614748>页面元素未找到('link text', '删除')元素
+2019-02-28 17:40:20,017 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 17:40:23,943 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001EEC9614748>页面元素未找到('name', 'modsubmit')元素
+2019-02-28 17:40:23,943 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 17:40:23,943 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001EEC9614748>页面元素未找到('link text', '管理中心')元素
+2019-02-28 17:40:23,943 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'

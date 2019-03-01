@@ -1,0 +1,13 @@
+2019-02-28 16:31:02,634 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 16:31:02,926 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 16:31:03,181 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:31:07,412 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:31:07,817 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:31:09,484 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:31:10,666 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:31:23,129 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001FE7C1A7BE0>页面元素未找到('xpath', '//input[@type="password"]')元素
+2019-02-28 16:31:23,147 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-28 16:31:33,118 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001FE7C1A7BE0>页面元素未找到('name', 'submit')元素
+2019-02-28 16:31:33,118 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 16:31:33,123 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001FE7C1A7BE0>页面元素未找到('id', 'header_forum')元素
+2019-02-28 16:31:33,124 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'

@@ -1,0 +1,17 @@
+2019-02-28 16:48:32,747 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 16:48:33,065 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 16:48:33,316 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:48:36,163 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:48:36,629 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:48:37,738 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:48:39,104 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:48:39,501 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:48:51,889 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001B9466439E8>页面元素未找到('xpath', '//input[@type="password"]')元素
+2019-02-28 16:48:51,890 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-28 16:49:03,018 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001B9466439E8>页面元素未找到('name', 'submit')元素
+2019-02-28 16:49:03,018 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 16:49:03,263 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:49:14,939 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001B9466439E8>页面元素未找到('link text', '添加新版块')元素
+2019-02-28 16:49:14,939 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 16:49:24,590 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001B9466439E8>页面元素未找到('name', 'editsubmit')元素
+2019-02-28 16:49:24,591 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'

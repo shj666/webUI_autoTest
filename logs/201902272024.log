@@ -1,0 +1,9 @@
+2019-02-27 20:24:55,912 - BasePage - $(levelname)s - 输入内容shj1
+2019-02-27 20:24:56,197 - BasePage - $(levelname)s - 输入内容123456
+2019-02-27 20:24:56,434 - BasePage - $(levelname)s - 点击成功
+2019-02-27 20:24:58,181 - BasePage - $(levelname)s - 点击成功
+2019-02-27 20:24:58,554 - BasePage - $(levelname)s - 输入内容haotest
+2019-02-27 20:25:10,610 - BasePage - $(levelname)s - <pageobjects.discuz_user_homepage.HomePage object at 0x000001BA9B232A20>页面元素未找到('xpath', '//button[@id="scform_submit"]')元素
+2019-02-27 20:25:10,611 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-27 20:25:21,672 - BasePage - $(levelname)s - <pageobjects.discuz_user_homepage.HomePage object at 0x000001BA9B232A20>页面元素未找到('xpath', '//li[@id="51"]/h3/a')元素
+2019-02-27 20:25:21,673 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'

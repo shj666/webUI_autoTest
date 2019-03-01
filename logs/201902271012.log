@@ -1,0 +1,7 @@
+2019-02-27 10:12:49,105 - BasePage - $(levelname)s - 输入内容admin
+2019-02-27 10:12:49,380 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-27 10:12:49,680 - BasePage - $(levelname)s - 点击成功登录
+2019-02-27 10:12:53,341 - BasePage - $(levelname)s - 点击失败Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+

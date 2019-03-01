@@ -1,0 +1,15 @@
+2019-02-28 11:11:44,116 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 11:11:44,462 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 11:11:44,745 - BasePage - $(levelname)s - 点击成功
+2019-02-28 11:11:48,472 - BasePage - $(levelname)s - 点击成功
+2019-02-28 11:11:51,972 - BasePage - $(levelname)s - 点击成功
+2019-02-28 11:11:54,034 - BasePage - $(levelname)s - 点击成功
+2019-02-28 11:11:55,240 - BasePage - $(levelname)s - 输入内容11111111111111111
+2019-02-28 11:11:56,209 - BasePage - $(levelname)s - 输入内容5555555555555555
+2019-02-28 11:11:57,366 - BasePage - $(levelname)s - 输入内容6666666666666666
+2019-02-28 11:11:57,975 - BasePage - $(levelname)s - 输入内容7777777777777
+2019-02-28 11:11:58,340 - BasePage - $(levelname)s - 点击成功
+2019-02-28 11:12:21,541 - BasePage - $(levelname)s - 点击成功
+2019-02-28 11:12:23,325 - BasePage - $(levelname)s - 点击成功
+2019-02-28 11:12:34,638 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001F82B372BA8>页面元素未找到('link text', '1.')元素
+2019-02-28 11:12:34,653 - BasePage - $(levelname)s - 获取失败'NoneType' object has no attribute 'text'

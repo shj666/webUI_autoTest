@@ -1,0 +1,29 @@
+2019-02-27 16:53:06,182 - BasePage - $(levelname)s - 输入内容admin
+2019-02-27 16:53:06,471 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-27 16:53:06,708 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:53:07,789 - BasePage - $(levelname)s - 点击失败Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 16:53:18,888 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001D3599B3B38>页面元素未找到('css selector', '.o input')元素
+2019-02-27 16:53:18,889 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-27 16:53:30,127 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001D3599B3B38>页面元素未找到('link text', '删除')元素
+2019-02-27 16:53:30,127 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-27 16:53:30,472 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:53:31,973 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-27 16:54:02,611 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:54:03,344 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:54:03,848 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:54:04,510 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:54:05,504 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:54:06,218 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:54:08,759 - BasePage - $(levelname)s - 输入内容shj1
+2019-02-27 16:54:09,030 - BasePage - $(levelname)s - 输入内容123456
+2019-02-27 16:54:09,246 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:54:11,460 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:54:12,150 - BasePage - $(levelname)s - 输入内容我的第二个帖子！！！！！
+2019-02-27 16:54:12,761 - BasePage - $(levelname)s - 输入内容符合符合华为覅黑发黑丝的开发商地多喝点客服端
+2019-02-27 16:54:14,699 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:54:15,154 - BasePage - $(levelname)s - 输入内容大老牛逼，秒天秒地秒空气
+2019-02-27 16:54:15,850 - BasePage - $(levelname)s - 点击成功
+2019-02-27 16:54:16,513 - BasePage - $(levelname)s - 点击成功

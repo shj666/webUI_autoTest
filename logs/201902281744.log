@@ -1,0 +1,9 @@
+2019-02-28 17:44:49,595 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 17:44:49,863 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:44:50,084 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:44:51,077 - BasePage - $(levelname)s - 点击失败Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 17:45:02,177 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001D11F2A3A58>页面元素未找到('css selector', '.o input')元素
+2019-02-28 17:45:02,177 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'

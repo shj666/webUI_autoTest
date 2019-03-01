@@ -1,0 +1,26 @@
+2019-02-28 16:32:53,148 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 16:32:53,434 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 16:32:53,663 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:32:56,204 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:32:56,691 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:32:57,823 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:32:58,293 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:33:10,513 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001DB5F517BA8>页面元素未找到('xpath', '//input[@type="password"]')元素
+2019-02-28 16:33:10,513 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-28 16:33:21,636 - BasePage - $(levelname)s - <pageobjects.discuz_admin_homepage.HomePage object at 0x000001DB5F517BA8>页面元素未找到('name', 'submit')元素
+2019-02-28 16:33:21,636 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 16:33:22,329 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:33:22,777 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:33:23,476 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:33:24,391 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:33:25,145 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:33:27,683 - BasePage - $(levelname)s - 输入内容shj1
+2019-02-28 16:33:27,948 - BasePage - $(levelname)s - 输入内容123456
+2019-02-28 16:33:28,170 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:33:30,903 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:33:31,320 - BasePage - $(levelname)s - 输入内容我的第二个帖子！！！！！
+2019-02-28 16:33:31,930 - BasePage - $(levelname)s - 输入内容符合符合华为覅黑发黑丝的开发商地多喝点客服端
+2019-02-28 16:33:34,077 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:33:49,611 - BasePage - $(levelname)s - 输入内容大老牛逼，秒天秒地秒空气
+2019-02-28 16:33:50,500 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:33:51,287 - BasePage - $(levelname)s - 点击成功

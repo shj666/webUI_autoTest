@@ -1,0 +1,2 @@
+2019-02-26 22:59:59,804 - BasePage - $(levelname)s - <pageobjects.baidu_homepage.HomePage object at 0x000001D9A02405C0>页面元素未找到('id', 'kw')元素
+2019-02-26 22:59:59,804 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'

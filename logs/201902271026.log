@@ -1,0 +1,5 @@
+2019-02-27 10:26:38,746 - BasePage - $(levelname)s - 输入内容admin
+2019-02-27 10:26:39,083 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-27 10:26:40,303 - BasePage - $(levelname)s - 点击成功登录
+2019-02-27 10:26:51,381 - BasePage - $(levelname)s - <pageobjects.discuz_homepage.HomePage object at 0x00000135CDB427B8>页面元素未找到('name', 'subject')元素
+2019-02-27 10:26:51,381 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'

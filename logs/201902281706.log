@@ -1,0 +1,80 @@
+2019-02-28 17:07:57,270 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 17:07:57,550 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:07:57,783 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:00,202 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:00,877 - BasePage - $(levelname)s - 输入内容我的第一个帖子！！！！
+2019-02-28 17:08:01,545 - BasePage - $(levelname)s - 输入内容好海奥，感觉人生已经到达了巅峰！！！！
+2019-02-28 17:08:03,301 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:04,103 - BasePage - $(levelname)s - 输入内容老哥，稳啊！墙都不服就服你！！！！！
+2019-02-28 17:08:04,849 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:05,629 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:13,581 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 17:08:13,865 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:08:14,085 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:16,896 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:17,141 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:18,054 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:19,225 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:19,742 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:21,113 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:08:42,478 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:43,034 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:43,479 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:44,114 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:44,943 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:45,545 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:48,108 - BasePage - $(levelname)s - 输入内容shj1
+2019-02-28 17:08:48,358 - BasePage - $(levelname)s - 输入内容123456
+2019-02-28 17:08:48,579 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:50,622 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:08:51,045 - BasePage - $(levelname)s - 输入内容我的第二个帖.......
+2019-02-28 17:08:51,696 - BasePage - $(levelname)s - 输入内容符合符合华为覅黑发黑丝的开发商地多喝点客服端
+2019-02-28 17:08:53,285 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:09:08,716 - BasePage - $(levelname)s - 输入内容大老牛逼，秒天秒地秒空气
+2019-02-28 17:09:09,488 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:09:09,924 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:09:17,900 - BasePage - $(levelname)s - 输入内容shj1
+2019-02-28 17:09:18,154 - BasePage - $(levelname)s - 输入内容123456
+2019-02-28 17:09:18,366 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:09:19,984 - BasePage - $(levelname)s - 输入内容haotest
+2019-02-28 17:09:21,239 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:09:22,597 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:09:28,224 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:09:30,750 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:09:38,319 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 17:09:38,588 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:09:38,823 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:09:39,858 - BasePage - $(levelname)s - 点击失败Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 17:09:50,984 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('id', 'newspecial')元素
+2019-02-28 17:09:50,984 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 17:10:02,199 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('link text', '发起投票')元素
+2019-02-28 17:10:02,199 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 17:10:13,329 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('name', 'subject')元素
+2019-02-28 17:10:13,330 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-28 17:10:24,384 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('css selector', '.mbm p:nth-child(1) input')元素
+2019-02-28 17:10:24,384 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-28 17:10:35,512 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('css selector', '.mbm p:nth-child(2) input')元素
+2019-02-28 17:10:35,512 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-28 17:10:46,592 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('css selector', '.mbm p:nth-child(3) input')元素
+2019-02-28 17:10:46,592 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-28 17:10:57,742 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('name', 'topicsubmit')元素
+2019-02-28 17:10:57,742 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 17:11:08,905 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('id', 'option_1')元素
+2019-02-28 17:11:08,905 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 17:11:19,980 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('name', 'pollsubmit')元素
+2019-02-28 17:11:19,980 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 17:11:31,050 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('xpath', '//form[@id="poll"]/div[2]/table/tbody/tr[1]')元素
+2019-02-28 17:11:31,050 - BasePage - $(levelname)s - 获取失败'NoneType' object has no attribute 'text'
+2019-02-28 17:11:42,170 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('xpath', '//form[@id="poll"]/div[2]/table/tbody/tr[2]/td[2]')元素
+2019-02-28 17:11:42,170 - BasePage - $(levelname)s - 获取失败'NoneType' object has no attribute 'text'
+2019-02-28 17:11:53,268 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('xpath', '//form[@id="poll"]/div[2]/table/tbody/tr[3]/td[1]/label')元素
+2019-02-28 17:11:53,268 - BasePage - $(levelname)s - 获取失败'NoneType' object has no attribute 'text'
+2019-02-28 17:12:04,400 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('xpath', '//form[@id="poll"]/div[2]/table/tbody/tr[4]/td[2]')元素
+2019-02-28 17:12:04,400 - BasePage - $(levelname)s - 获取失败'NoneType' object has no attribute 'text'
+2019-02-28 17:12:15,535 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('xpath', '//form[@id="poll"]/div[2]/table/tbody/tr[5]/td[1]/label')元素
+2019-02-28 17:12:15,535 - BasePage - $(levelname)s - 获取失败'NoneType' object has no attribute 'text'
+2019-02-28 17:12:26,607 - BasePage - $(levelname)s - <pageobjects.discuz_toupiao_homepage.HomePage object at 0x000001C0BF693C18>页面元素未找到('xpath', '//form[@id="poll"]/div[2]/table/tbody/tr[6]/td[2]')元素
+2019-02-28 17:12:26,607 - BasePage - $(levelname)s - 获取失败'NoneType' object has no attribute 'text'

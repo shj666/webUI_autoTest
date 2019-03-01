@@ -1,0 +1,13 @@
+2019-02-28 16:01:07,104 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 16:01:07,487 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 16:01:07,766 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:01:11,603 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:01:12,447 - BasePage - $(levelname)s - 输入内容我的第一个帖子！！！！
+2019-02-28 16:01:13,325 - BasePage - $(levelname)s - 输入内容好海奥，感觉人生已经到达了巅峰！！！！
+2019-02-28 16:02:16,380 - BasePage - $(levelname)s - 点击成功
+2019-02-28 16:02:16,449 - BasePage - $(levelname)s - <pageobjects.discuz_homepage.HomePage object at 0x00000207507ACC18>页面元素未找到('id', 'fastpostmessage')元素
+2019-02-28 16:02:16,462 - BasePage - $(levelname)s - 关闭网页失败'NoneType' object has no attribute 'send_keys'
+2019-02-28 16:02:16,489 - BasePage - $(levelname)s - <pageobjects.discuz_homepage.HomePage object at 0x00000207507ACC18>页面元素未找到('css selector', '.pnpost button')元素
+2019-02-28 16:02:16,490 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'
+2019-02-28 16:02:16,524 - BasePage - $(levelname)s - <pageobjects.discuz_homepage.HomePage object at 0x00000207507ACC18>页面元素未找到('partial link text', '退出')元素
+2019-02-28 16:02:16,525 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'

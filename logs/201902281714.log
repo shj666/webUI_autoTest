@@ -1,0 +1,5 @@
+2019-02-28 17:15:37,236 - BasePage - $(levelname)s - 输入内容admin
+2019-02-28 17:15:37,506 - BasePage - $(levelname)s - 输入内容shj1996
+2019-02-28 17:15:37,726 - BasePage - $(levelname)s - 点击成功
+2019-02-28 17:15:48,837 - BasePage - $(levelname)s - <pageobjects.discuz_homepage.HomePage object at 0x000001DEF1A2CBE0>页面元素未找到('css selector', '.bm_c h2 a')元素
+2019-02-28 17:15:48,837 - BasePage - $(levelname)s - 点击失败'NoneType' object has no attribute 'click'

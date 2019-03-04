@@ -80,6 +80,15 @@ class BasePage(object):
             self.get_windows_img()
             logger.error("not get_windows_img")
 
+    def write_assert(self,*loc):
+        el = self.find_element(*loc)
+        try:
+            el.text
+            logger.info("增加断言成功")
+        except Exception as e:
+            logger.error("增加断言失败%s" % e)
+            self.get_windows_img()
+
 
 
 

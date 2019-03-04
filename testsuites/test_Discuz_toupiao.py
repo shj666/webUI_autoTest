@@ -15,7 +15,8 @@ class DiscuzToupiao(BaseTestCase):
         home_page = HomePage(self.driver)
 
         home_page.search('admin','shj1996')#登录
-
+        self.assertEqual(self.driver.title, "【新提醒】发表帖子 - 默认版块 - Discuz! Board - Powered by Discuz!")
         home_page.toupiao('11111111111111111','5555555555555555','6666666666666666','7777777777777')
+        self.assertEqual(self.driver.title, "【新提醒】11111111111111111 - 默认版块 - Discuz! Board - Powered by Discuz!")
 
         home_page.huoqu()

@@ -20,10 +20,13 @@ class DiscuzUser(BaseTestCase):
         home_page = HomePage(self.driver)
 
         home_page.search('shj1','123456')#用户登录
+        self.assertEqual(self.driver.title, "【新提醒】 论坛 - Discuz! Board - Powered by Discuz!")
 
         home_page.searchhaotest('haotest')#搜索haotest帖子
+        self.assertEqual(self.driver.title, "搜索 - Discuz! Board - Powered by Discuz!")
 
         home_page.submit()#验证帖子标题和期望的一致
+        self.assertEqual(self.driver.title, "【新提醒】 haotest - 默认版块 - Discuz! Board - Powered by Discuz!")
 
         home_page.tuichu()#用户退出
 
